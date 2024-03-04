@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026172948892",
+    "project_id": "anti-theft-detection",
+    "storage_bucket": "anti-theft-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026172948892:android:383f6cf8e183aae2637859",
+        "android_client_info": {
+          "package_name": "com.example.anti_theft_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjfqKEQuIUxPlCmoTQFPIzDbiCEq9_ROg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
